@@ -1,3 +1,7 @@
 .active hr{
     display: block;
 }
+
+.no-scrollbar::-webkit-scrollbar {
+      display: none;
+}
